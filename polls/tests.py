@@ -1,4 +1,4 @@
-#tests for poll app
+# tests for poll app
 import datetime
 from django.test import TestCase
 from django.utils import timezone
