@@ -1,3 +1,4 @@
+# models for polls app
 import datetime
 from django.db import models
 from django.utils import timezone
